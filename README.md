@@ -1,6 +1,6 @@
 # Custom-Cursor
 
-So guys this is 20th project of my 30 days frontend project challenge.
+So guys this is 20th project of my 25 days frontend project challenge.
 
 This is a small project in which i create a Customized cursor.
 
